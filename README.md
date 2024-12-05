@@ -27,9 +27,8 @@ LEGADO está compuesto por:
 - **Iniciativas de sostenibilidad.**  
 
 ### Conecta con nosotros:  
-📧 **Email:** contacto@legado.org  
-🌐 **Sitio web:** [www.legado.org](https://www.legado.org)  
-🐦 **Twitter:** [@LegadoGlobal](https://twitter.com/LegadoGlobal)  
+📧 **Email:** contacto@legado.green  
+🌐 **Sitio web:** [www.legado.org](https://legado.green/)
 
 ---
 
